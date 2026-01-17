@@ -1,4 +1,4 @@
-# 👋 Hola, soy Panidas98
+# 👋 Hola, soy Juanes Ochoa
 
 Interesado en datos, automatización y tecnología.
 Construyo soluciones claras y eficientes.
