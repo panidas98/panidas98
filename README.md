@@ -1,12 +1,7 @@
 # 👋 Hola, soy Panidas98
 
-Soy una persona interesada en datos, automatización y tecnología.  
-Me gusta construir soluciones claras, eficientes y escalables.
-
----
-
-## 🏆 Trofeos de GitHub
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=panidas98&theme=onedark&no-frame=true&margin-w=10)
+Interesado en datos, automatización y tecnología.
+Construyo soluciones claras y eficientes.
 
 ---
 
@@ -16,22 +11,11 @@ Me gusta construir soluciones claras, eficientes y escalables.
 
 ---
 
-## 🖥️ Mis lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panidas98&layout=compact&theme=dark&langs_count=6)
+## 🚀 En qué trabajo
+- Análisis de datos
+- Automatización
+- Dashboards y visualización
 
 ---
 
-## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=panidas98&show_icons=true&theme=dark&hide_title=true)
-
----
-
-## 🚀 En qué estoy trabajando
-- Automatización y análisis de datos  
-- Dashboards y visualización  
-- Optimización de procesos  
-
----
-
-## 📫 Cómo contactarme
-- GitHub: [https://github.com/panidas98](https://github.com/panidas98)
+📫 GitHub: https://github.com/panidas98
